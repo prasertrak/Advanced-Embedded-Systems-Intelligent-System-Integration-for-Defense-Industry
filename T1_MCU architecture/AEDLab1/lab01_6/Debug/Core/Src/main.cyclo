@@ -1,0 +1,9 @@
+../Core/Src/main.c:61:6:clearTimer	1
+../Core/Src/main.c:65:10:getTimer	1
+../Core/Src/main.c:69:6:uDelay	4
+../Core/Src/main.c:78:6:HAL_GPIO_EXTI_Callback	7
+../Core/Src/main.c:100:5:main	3
+../Core/Src/main.c:155:6:SystemClock_Config	4
+../Core/Src/main.c:209:13:MX_TIM2_Init	4
+../Core/Src/main.c:254:13:MX_GPIO_Init	1
+../Core/Src/main.c:310:6:Error_Handler	1
