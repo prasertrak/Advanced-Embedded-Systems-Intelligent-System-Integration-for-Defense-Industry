@@ -1,0 +1,13 @@
+../Core/Src/main.c:99:5:main	1
+../Core/Src/main.c:186:6:SystemClock_Config	4
+../Core/Src/main.c:240:13:MX_TIM2_Init	4
+../Core/Src/main.c:285:13:MX_GPIO_Init	1
+../Core/Src/main.c:350:6:clearTimer	1
+../Core/Src/main.c:354:10:getTimer	1
+../Core/Src/main.c:358:6:uDelay	4
+../Core/Src/main.c:367:5:ultraSonic	7
+../Core/Src/main.c:386:6:ledBar	4
+../Core/Src/main.c:407:6:ledBarThread	4
+../Core/Src/main.c:436:6:ultrasonicThread	3
+../Core/Src/main.c:461:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:479:6:Error_Handler	1

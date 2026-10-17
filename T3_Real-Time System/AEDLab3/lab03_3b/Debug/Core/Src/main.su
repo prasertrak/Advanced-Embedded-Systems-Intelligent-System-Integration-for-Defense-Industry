@@ -1,0 +1,12 @@
+../Core/Src/main.c:123:5:main	16	static
+../Core/Src/main.c:211:6:SystemClock_Config	88	static
+../Core/Src/main.c:265:13:MX_TIM2_Init	32	static
+../Core/Src/main.c:310:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:349:6:clearTimer	4	static
+../Core/Src/main.c:353:10:getTimer	4	static
+../Core/Src/main.c:357:6:uDelay	24	static
+../Core/Src/main.c:368:6:LEDThread	24	static
+../Core/Src/main.c:384:6:pwmThread	32	static
+../Core/Src/main.c:406:6:defaultThread	16	static
+../Core/Src/main.c:425:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:443:6:Error_Handler	4	static,ignoring_inline_asm
